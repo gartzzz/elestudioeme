@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELESTUDIOEME.COM" resolutions="1x" timestamp="1567613412114">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELESTUDIOEME.COM" resolutions="1x" timestamp="1567613761327">
   <folder name="css">
     <file name="site_global.css" crc="4085801442"/>
-    <file name="index.css" crc="4230391754" ref="index"/>
-    <file name="nomq_index.css" crc="262171661" ref="index"/>
+    <file name="index.css" crc="3966824677" ref="index"/>
+    <file name="nomq_index.css" crc="482306047" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="futurastd-book.woff" crc="4051106799"/>
@@ -14,6 +14,9 @@
     <file name="futurastd-light.woff" crc="353152946"/>
     <file name="futurastd-light.eot" crc="125435064"/>
     <file name="futurastd-light.svg" crc="5007777"/>
+    <file name="futurastd-extrabold.woff" crc="175605343"/>
+    <file name="futurastd-extrabold.eot" crc="186368470"/>
+    <file name="futurastd-extrabold.svg" crc="282515057"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -44,7 +47,7 @@
     <file name="arco-crop-u656.jpg" crc="3856338495" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gugg-crop-u675.jpg" crc="289587572" seo="true" ref="index">
+    <file name="gugg-crop-u675.jpg" crc="98775893" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pp-crop-u729.jpg" crc="164529761" seo="true" ref="index">
@@ -58,54 +61,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 718251x309_poster_.png" crc="4190817275" ref="index"/>
-    <file name="u1525.png" crc="359552800" ref="index"/>
-    <file name="u1525-r.png" crc="4208122107" ref="index"/>
-    <file name="u1525-m.png" crc="4208122107" ref="index"/>
-    <file name="u1525-a.png" crc="359552800" ref="index"/>
-    <file name="u15252.png" crc="4002465384" ref="index"/>
-    <file name="u1525-r2.png" crc="462729840" ref="index"/>
-    <file name="u1525-m2.png" crc="462729840" ref="index"/>
-    <file name="u1525-a2.png" crc="4002465384" ref="index"/>
-    <file name="u15253.png" crc="3850977463" ref="index"/>
-    <file name="u1525-r3.png" crc="4021260750" ref="index"/>
-    <file name="u1525-m3.png" crc="4021260750" ref="index"/>
-    <file name="u1525-a3.png" crc="3850977463" ref="index"/>
-    <file name="u1943_states.png" crc="191416102" ref="index"/>
-    <file name="u1943_states-a.png" crc="4100950118" ref="index"/>
-    <file name="u1970_states.png" crc="511552208" ref="index"/>
-    <file name="u1970_states-a.png" crc="3994541300" ref="index"/>
-    <file name="u1979_states.png" crc="13353447" ref="index"/>
-    <file name="u1979_states-a.png" crc="348440517" ref="index"/>
-    <file name="u1997_states.png" crc="4181574573" ref="index"/>
-    <file name="u1997_states-a.png" crc="4116742519" ref="index"/>
-    <file name="u1943_states2.png" crc="4135835105" ref="index"/>
-    <file name="u1943_states-a2.png" crc="3780723012" ref="index"/>
-    <file name="u1970_states2.png" crc="368507969" ref="index"/>
-    <file name="u1970_states-a2.png" crc="4207247574" ref="index"/>
-    <file name="u1979_states2.png" crc="346993114" ref="index"/>
-    <file name="u1979_states-a2.png" crc="4215065207" ref="index"/>
-    <file name="u1997_states2.png" crc="4068815755" ref="index"/>
-    <file name="u1997_states-a2.png" crc="414960927" ref="index"/>
-    <file name="u1943_states3.png" crc="3956330882" ref="index"/>
-    <file name="u1943_states-a3.png" crc="171680038" ref="index"/>
-    <file name="u1970_states3.png" crc="176916662" ref="index"/>
-    <file name="u1970_states-a3.png" crc="151153000" ref="index"/>
-    <file name="u1979_states3.png" crc="4091118576" ref="index"/>
-    <file name="u1979_states-a3.png" crc="526539636" ref="index"/>
-    <file name="u1997_states3.png" crc="4044457971" ref="index"/>
-    <file name="u1997_states-a3.png" crc="4083622151" ref="index"/>
-    <file name="u1943_states-r.png" crc="4100950118" ref="index"/>
-    <file name="u1970_states-r.png" crc="3994541300" ref="index"/>
-    <file name="u1979_states-r.png" crc="348440517" ref="index"/>
-    <file name="u1997_states-r.png" crc="4116742519" ref="index"/>
-    <file name="u1943_states-r2.png" crc="3780723012" ref="index"/>
-    <file name="u1970_states-r2.png" crc="4207247574" ref="index"/>
-    <file name="u1979_states-r2.png" crc="4215065207" ref="index"/>
-    <file name="u1997_states-r2.png" crc="414960927" ref="index"/>
-    <file name="u1943_states-r3.png" crc="171680038" ref="index"/>
-    <file name="u1970_states-r3.png" crc="151153000" ref="index"/>
-    <file name="u1979_states-r3.png" crc="526539636" ref="index"/>
-    <file name="u1997_states-r3.png" crc="4083622151" ref="index"/>
   </folder>
-  <file name="index.html" crc="61743973" seo="true" mt="1567613401372" redirect="true"/>
+  <file name="index.html" crc="3873841213" seo="true" mt="1567613750808" redirect="true"/>
 </manifest>
