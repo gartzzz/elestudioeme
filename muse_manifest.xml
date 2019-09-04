@@ -1,0 +1,21 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eme.STD" resolutions="1x" timestamp="1567590962085">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4203229252" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-718251x309.svg" crc="4200110161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 718251x309_poster_.png" crc="198004448" ref="index"/>
+    <file name="u206-4.png" crc="3929638574" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4078370319" seo="true" mt="1567590954104" redirect="true"/>
+</manifest>
