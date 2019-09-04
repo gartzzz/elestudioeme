@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://eme.STD/index.html</loc>
+    <loc>http://ELESTUDIOEME.COM/index.html</loc>
     <lastmod>2019-09-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://eme.STD/images/pasted-svg-66767x112.svg</image:loc>
+      <image:loc>http://ELESTUDIOEME.COM/images/pasted-svg-66767x112.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eme.STD/images/logo-plain.svg</image:loc>
+      <image:loc>http://ELESTUDIOEME.COM/images/logo-plain.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eme.STD/images/arco-crop-u656.jpg</image:loc>
+      <image:loc>http://ELESTUDIOEME.COM/images/arco-crop-u656.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eme.STD/images/gugg-crop-u675.jpg</image:loc>
+      <image:loc>http://ELESTUDIOEME.COM/images/gugg-crop-u675.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eme.STD/images/pp-crop-u729.jpg</image:loc>
+      <image:loc>http://ELESTUDIOEME.COM/images/pp-crop-u729.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://eme.STD/images/bran397x909.png</image:loc>
+      <image:loc>http://ELESTUDIOEME.COM/images/bran397x909.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/pasted-svg-718251x309.svg</image:loc>
     </image:image>
   </url>
 </urlset>
