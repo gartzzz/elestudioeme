@@ -1,21 +1,47 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eme.STD" resolutions="1x" timestamp="1567590962085">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eme.STD" resolutions="1x" timestamp="1567596349197">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4203229252" ref="index"/>
+    <file name="site_global.css" crc="4085801442"/>
+    <file name="index.css" crc="4194906972" ref="index"/>
+    <file name="nomq_index.css" crc="312722727" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="futurastd-book.woff" crc="4051106799"/>
+    <file name="futurastd-book.eot" crc="106551691"/>
+    <file name="futurastd-book.svg" crc="57603351"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pasted-svg-718251x309.svg" crc="4200110161" seo="true" ref="index">
+    <file name="pasted-svg-66767x112.svg" crc="86981255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted svg 718251x309_poster_.png" crc="198004448" ref="index"/>
-    <file name="u206-4.png" crc="3929638574" ref="index"/>
+    <file name="pasted svg 66767x112_poster_.png" crc="4021485790" ref="index"/>
+    <file name="logo-plain.svg" crc="472271659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo plain_poster_.png" crc="3984017717" ref="index"/>
+    <file name="arco-crop-u656.jpg" crc="3856338495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gugg-crop-u675.jpg" crc="289587572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pp-crop-u729.jpg" crc="164529761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bran397x909.png" crc="310196325" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4078370319" seo="true" mt="1567590954104" redirect="true"/>
+  <file name="index.html" crc="4386446" seo="true" mt="1567596330098" redirect="true"/>
 </manifest>
