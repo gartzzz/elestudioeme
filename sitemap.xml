@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ELESTUDIOEME.COM/index.html</loc>
-    <lastmod>2019-09-04</lastmod>
+    <lastmod>2019-09-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -25,6 +25,33 @@
     </image:image>
     <image:image>
       <image:loc>http://ELESTUDIOEME.COM/images/pasted-svg-718251x309.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ELESTUDIOEME.COM/arcoiris.html</loc>
+    <lastmod>2019-09-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/logo-plain.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/pasted-svg-718251x309.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/arco-color1-crop-u2248.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/_mg_6144-crop-u2292.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/_mg_6145-crop-u2486.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/violeta-crop-u2517.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ELESTUDIOEME.COM/images/rojo-crop-u2701.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

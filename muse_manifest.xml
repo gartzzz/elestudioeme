@@ -1,8 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELESTUDIOEME.COM" resolutions="1x" timestamp="1567613761327">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELESTUDIOEME.COM" resolutions="1x" timestamp="1567696437916">
   <folder name="css">
-    <file name="site_global.css" crc="4085801442"/>
-    <file name="index.css" crc="3966824677" ref="index"/>
-    <file name="nomq_index.css" crc="482306047" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3872958470" ref="index"/>
+    <file name="nomq_index.css" crc="4153850656" ref="index"/>
+    <file name="arcoiris.css" crc="20666523" ref="arcoiris"/>
+    <file name="nomq_arcoiris.css" crc="3881862022" ref="arcoiris"/>
   </folder>
   <folder name="fonts">
     <file name="futurastd-book.woff" crc="4051106799"/>
@@ -19,31 +21,32 @@
     <file name="futurastd-extrabold.svg" crc="282515057"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:arcoiris"/>
+    <file name="museutils.js" crc="340535759" ref="index:arcoiris"/>
+    <file name="whatinput.js" crc="86476730" ref="index:arcoiris"/>
+    <file name="museconfig.js" crc="310584261" ref="index:arcoiris"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:arcoiris"/>
+    <file name="require.js" crc="7928878" ref="index:arcoiris"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:arcoiris"/>
+    <file name="webpro.js" crc="4059564322" ref="index:arcoiris"/>
     <file name="form_check.php" crc="4020933626" ref="index"/>
     <file name="form_throttle.php" crc="4259590256" ref="index"/>
     <file name="form_process.php" crc="37464564" ref="index"/>
     <file name="form-u1049.php" crc="471612148" ref="index"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:arcoiris"/>
   </folder>
   <folder name="images">
     <file name="pasted-svg-66767x112.svg" crc="86981255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 66767x112_poster_.png" crc="4021485790" ref="index"/>
-    <file name="logo-plain.svg" crc="472271659" seo="true" ref="index">
+    <file name="logo-plain.svg" crc="472271659" seo="true" ref="index:arcoiris">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="arcoiris" alt=""/>
     </file>
-    <file name="logo plain_poster_.png" crc="3984017717" ref="index"/>
+    <file name="logo plain_poster_.png" crc="227413852" ref="index:arcoiris"/>
     <file name="arco-crop-u656.jpg" crc="3856338495" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -53,14 +56,31 @@
     <file name="pp-crop-u729.jpg" crc="164529761" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:arcoiris"/>
     <file name="bran397x909.png" crc="310196325" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted-svg-718251x309.svg" crc="188603686" seo="true" ref="index">
+    <file name="pasted-svg-718251x309.svg" crc="188603686" seo="true" ref="index:arcoiris">
       <caption webpage="index" alt=""/>
+      <caption webpage="arcoiris" alt=""/>
     </file>
-    <file name="pasted svg 718251x309_poster_.png" crc="4190817275" ref="index"/>
+    <file name="pasted svg 718251x309_poster_.png" crc="4190817275" ref="index:arcoiris"/>
+    <file name="arco-color1-crop-u2248.jpg" crc="4018273229" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="_mg_6144-crop-u2292.jpg" crc="4172238219" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="_mg_6145-crop-u2486.jpg" crc="350443700" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="violeta-crop-u2517.jpg" crc="3991102768" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="rojo-crop-u2701.jpg" crc="4131725373" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3873841213" seo="true" mt="1567613750808" redirect="true"/>
+  <file name="index.html" crc="431682040" seo="true" mt="1567694609632" redirect="true"/>
+  <file name="arcoiris.html" crc="500325445" seo="true" mt="1567695316990" redirect="true"/>
 </manifest>
