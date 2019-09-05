@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELESTUDIOEME.COM" resolutions="1x" timestamp="1567696437916">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ELESTUDIOEME.COM" resolutions="1x" timestamp="1567696752681">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3872958470" ref="index"/>
     <file name="nomq_index.css" crc="4153850656" ref="index"/>
-    <file name="arcoiris.css" crc="20666523" ref="arcoiris"/>
-    <file name="nomq_arcoiris.css" crc="3881862022" ref="arcoiris"/>
+    <file name="arcoiris.css" crc="3970400517" ref="arcoiris"/>
+    <file name="nomq_arcoiris.css" crc="65314735" ref="arcoiris"/>
   </folder>
   <folder name="fonts">
     <file name="futurastd-book.woff" crc="4051106799"/>
@@ -68,19 +68,31 @@
     <file name="arco-color1-crop-u2248.jpg" crc="4018273229" seo="true" ref="arcoiris">
       <caption webpage="arcoiris" alt=""/>
     </file>
-    <file name="_mg_6144-crop-u2292.jpg" crc="4172238219" seo="true" ref="arcoiris">
-      <caption webpage="arcoiris" alt=""/>
-    </file>
-    <file name="_mg_6145-crop-u2486.jpg" crc="350443700" seo="true" ref="arcoiris">
-      <caption webpage="arcoiris" alt=""/>
-    </file>
     <file name="violeta-crop-u2517.jpg" crc="3991102768" seo="true" ref="arcoiris">
       <caption webpage="arcoiris" alt=""/>
     </file>
     <file name="rojo-crop-u2701.jpg" crc="4131725373" seo="true" ref="arcoiris">
       <caption webpage="arcoiris" alt=""/>
     </file>
+    <file name="_mg_6144-crop-u2789.jpg" crc="428933686" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="_mg_6145-crop-u2803.jpg" crc="388765509" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="_mg_6144-crop-u27892.jpg" crc="419135680" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="_mg_6145-crop-u28032.jpg" crc="254779238" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="_mg_6144-crop-u27893.jpg" crc="4179642034" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
+    <file name="_mg_6145-crop-u28033.jpg" crc="32831400" seo="true" ref="arcoiris">
+      <caption webpage="arcoiris" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="431682040" seo="true" mt="1567694609632" redirect="true"/>
-  <file name="arcoiris.html" crc="500325445" seo="true" mt="1567695316990" redirect="true"/>
+  <file name="arcoiris.html" crc="3952377649" seo="true" mt="1567696750869" redirect="true"/>
 </manifest>
